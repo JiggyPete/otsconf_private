@@ -130,14 +130,14 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 1;
 }
 
-.navbar .fa-wrapper {
+.navbar-pete .fa-wrapper {
   padding-top: 11px;
   padding-bottom: 0;
 }
 
 .navbar-default {
   border-color: transparent;
-  background-color: transparent;
+  background-color: black;
   .navbar-brand {
     padding-top: 0;
     padding-bottom: 0;
@@ -181,7 +181,8 @@ h1, h2, h3, h4, h5, h6 {
         .heading-font;
         font-weight: 400;
         font-size: 0.9em;
-        color: white;
+        color: yellow;
+        font-weight: bold;
         &:hover,
         &:focus {
           color: @brand-primary;
@@ -241,7 +242,7 @@ tito-button {
   }
 
   .navbar-default {
-    background-color: transparent;
+    background-color: #222222;
     padding: 25px 0;
     border: none;
     .navbar-brand {
@@ -297,7 +298,7 @@ header {
 @media (min-width: 768px) {
   header {
     .intro-text {
-      padding-top: 135px;
+      padding-top: 500px;
       padding-bottom: 80px;
       .intro-lead-in {
         .serif-font;
@@ -322,7 +323,10 @@ header {
 // Global Section Styles
 
 section {
-  padding: 140px 0;
+  &:first-of-type {
+    padding: 0;
+  }
+  padding: 100px 0;
   margin-top: -40px;
   h2.section-heading {
     font-size: 2.5em;
@@ -693,11 +697,4 @@ footer {
   margin-top: 4px;
   color: @brand-4;
   opacity: 0.9;
-}
-
-iframe.slack {
-  border: 0 none;
-  min-width: 310px;
-  max-width: 350px;
-  overflow: fixed;
 }

@@ -1,37 +1,29 @@
-All attendees, speakers, sponsors and volunteers at the OpenTechSchool Conference are required to agree with and act according to the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+All attendees, speakers, sponsors and volunteers at ScotlandJS are required to agree with the following code of conduct.
+Staff will enforce this throughout the event.
 
-Need help? Contact us!
+If you need help please contact us.
 
 ### The Quick Version
 
-The OpenTechSchool Conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, Slack channel and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+ScotlandJS is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identification, sexual orientation, physical or mental ability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants, visitors of the venue or event staff in any form. Sexual language and imagery is not appropriate for any conference venue, including talks and workshops.
+
+If a conference participant engages in harassing behaviour, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
 ### The Less Quick Version
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
-
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
-If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by a special conference shirt.
-
-In case you can’t find a staff member or want to contact us via email or phone directly, we are always there for you:
-
-**Contact:** Katharina Mehner  
-**Twitter:** [@Kiida](https://twitter.com/Kiida)  
-
-**Contact:** Robin Mehner  
-**Twitter:** [@rmehner](https://twitter.com/rmehner)  
-
-**Phone:** (+49) 176 7222 4549
-
-
-
-Conference staff will be happy to help participants contact hotel / venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+Conference staff will be happy to help participants contact venue security or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
-We gladly adapted this document from [Reject.JS's code of conduct](http://rejectjs.org/code-of-conduct/). Thank you for reading it, we can't wait to welcome you in Dortmund!
+This code of conduct is slightly modified from [http://confcodeofconduct.com](http://confcodeofconduct.com). We will continue to refine as appropriate.
+
+Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & The Ada Initiative
+
+This work is licensed under a Creative Commons Attribution 3.0 Unported License

@@ -1,4 +1,4 @@
-nav.navbar.navbar-default.navbar-fixed-top
+nav.navbar-pete.navbar-default
   .container
     .navbar-header.page-scroll
       button.navbar-toggle(type='button', data-toggle='collapse', data-target='#bs-example-navbar-collapse-1')
@@ -6,27 +6,22 @@ nav.navbar.navbar-default.navbar-fixed-top
         span.icon-bar
         span.icon-bar
         span.icon-bar
-      a.navbar-brand.page-scroll.hidden-sm(href='#page-top')
-        img(
-          src='/images/logos/ots_logo_white.png',
-          width='50',
-          height='50',
-          alt='otsconf Logo'
-        )
 
     #bs-example-navbar-collapse-1.collapse.navbar-collapse
-      ul.nav.navbar-nav.navbar-right
+      ul.nav.navbar-nav.navbar-left
         block navlinks
           li.hidden
             a(href='#page-top')
           li
-            a(href='http://blog.otsconf.com/') News
+            a.fa-wrapper(href='https://twitter.com/scotlandjs')
+              i.fa.fa-2x.fa-twitter
           li
-            a.page-scroll(href='#talks') Talks
+            a(href='/') News
+          li
+            a.page-scroll(href='#talks') Speakers
           li
             a.page-scroll(href='#sponsors') Sponsors
           li
             a.page-scroll(href='#team') Team
           li
-            a.fa-wrapper(href='https://twitter.com/otsconf')
-              i.fa.fa-2x.fa-twitter
+            a(href='#cocModal', data-toggle='modal') Code of Conduct
